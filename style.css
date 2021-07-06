@@ -4,10 +4,65 @@ body{
     overflow-x:hidden;
     margin-bottom: 0px; 
 }
+.box{
+text-align: justify;
+ box-shadow: 5px 7px 40px gray;
+ height: 100px;
+ width: 50%;
+ position: relative;
+ top: 0px;
+ left: 450px;
+ background: linear-gradient(rgb(255, 58, 58), rgb(252, 46, 46));
+content: '';
+z-index: -1;
+border-radius: 40px;
+}
+.b1{
+    position: relative;
+    top: 40px;
+    left: 40px;
+    font-family: 'Yomogi', cursive;
+
+}
+.b2{
+    position: relative;
+    bottom: 5px;
+    left: 180px;
+    font-family: 'Yomogi', cursive;
+}
+.b3{
+    position: relative;
+    left: 450px;
+    bottom: 51px;
+    font-family: 'Yomogi', cursive;
+    
+}
+.b4{
+    position: relative;
+    left: 720px;
+    bottom: 98px;
+    border-radius: 10px;
+    font-family: 'Yomogi', cursive;
+
+}
+.b5{
+    position: relative;
+    left: 850px;
+    bottom: 144.5px;
+    font-family: 'Yomogi', cursive;
+}
+.b6{
+    position: relative;
+    bottom: 185px;
+    left: 300px;
+    font-family: 'Yomogi', cursive;
+
+}
 .top{
     padding-left: 3%;
     padding-top: 2%;
     display: flex;
+    margin-top: 40px;
     
 }
 .top h1{
@@ -42,7 +97,7 @@ span{
     margin-top: 100px;    
 }
 .me{
-    background-image: linear-gradient(rgb(255, 81, 0),tomato);
+    background-image: linear-gradient(rgb(0, 238, 255),rgb(74, 71, 255));
     padding: 10px 30px;
     font-size: 20px;
     border-radius: 10px;
