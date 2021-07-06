@@ -293,4 +293,29 @@ bottom: 50px;
 right: 900px;
 border-radius: 20px 
 }
+.sub{
+    position: relative;
+    bottom: 300px;
+    left: 700px;
+    box-shadow: 5px 7px 20px gray;
+    height: 150px;
+    width: 500px; 
+    padding-left: 40px;
+    padding-top: 20px; 
+    font-family: 'Bebas Neue', cursive;
+    border: solid 7px;
+    border-image: linear-gradient(180deg,rgb(255, 0, 0),rgb(235, 135, 230));
+    border-image-slice: 1;
+    border-radius: 10px;
+    color: rgb(231, 60, 29);
+
+}
+#gm{
+    position: relative;
+    left: 100px;
+    top: 10px;
+    size: 20px;
+    
+}
+
 
