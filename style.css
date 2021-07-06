@@ -136,6 +136,28 @@ left: 700px;
    bottom: 900px;
    left: 1350px;
 }
+.yt{
+    height: 50x;
+    width: 70px;
+    position: relative;
+    bottom: 485px;
+    left: 400px;
+}
+.fb{
+    height: 50px;
+    width: 70px;
+    position: relative;
+    bottom: 500px;
+    left: 750px;
+
+}
+.insta{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    bottom: 500px;
+    left: 1150px;
+}
 .end{
     text-align: center;
    background: #000;
