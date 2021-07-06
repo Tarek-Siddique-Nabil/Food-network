@@ -24,7 +24,7 @@ body{
     padding-left: 30px;
 }
 span{
-    color: orange;
+    color: rgb(255, 94, 0);
 }
 .sec{
     background-image: url(images/shapes/7.png);
@@ -135,5 +135,15 @@ left: 700px;
    position: relative;
    bottom: 900px;
    left: 1350px;
+}
+.end{
+    text-align: center;
+   background: #000;
+   height: 150px;
+  padding-top: 5px;
+
+}
+.end h5{
+    color: gray;
 }
 
