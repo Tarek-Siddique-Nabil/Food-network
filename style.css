@@ -26,6 +26,8 @@ body{
 span{
     color: rgb(255, 94, 0);
 }
+
+
 .sec{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
@@ -140,7 +142,7 @@ left: 700px;
     height: 50x;
     width: 70px;
     position: relative;
-    bottom: 485px;
+    bottom: 487px;
     left: 400px;
 }
 .fb{
@@ -157,6 +159,8 @@ left: 700px;
     position: relative;
     bottom: 500px;
     left: 1150px;
+       
+    
 }
 .end{
     text-align: center;
@@ -166,6 +170,33 @@ left: 700px;
 
 }
 .end h5{
-    color: gray;
+    color: rgb(247, 244, 244);
 }
+.famous{
+  font-family: 'Lobster', cursive;
+  position: relative;
+  bottom: 500px;
+  left: 350px;  
+}
+.call{
+width: 70px;  
+height: 50px;
+position: relative;
+bottom: 100px;
+left: 20px;
+border-radius: 20px;
+
+}
+.num{
+color: gray;  
+position: relative;
+bottom: 120px;
+left: 10px;
+font-size: 15px;
+
+}
+
+
+  
+    
 
